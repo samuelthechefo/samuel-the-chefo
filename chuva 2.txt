@@ -1,0 +1,48 @@
+Python 3.14.7 (tags/v3.14.7:823f032, Aug  5 2026, 10:51:32) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+========== RESTART: C:/Users/Aluno/Documents/samuel henrique/chuva.py ==========
+===BEM-VINDO AO QUIZ TECH CEJO/SENAI ===
+Samuel the chefo: Samuel the chefo
+
+Olá, Samuel the chefo! Responda ás perguntas com A, B ou C:
+
+1) Qual linguagem estamos aprendendo nesta aula?
+A) HTML
+B) Pyton
+C) C++
+Sua resposta: b
+✔Acertou chefia Resposta correta! +1 ponto.
+
+2) O que significa a sigla SGBD em banco de dados?
+A) Sistema de Gerenciamento de Banco de Dados
+B) Sistema Geral de Busca Digital
+C) Software de Gravação de Baixo Desempenho
+Sua resposta: a
+✔Acertou chefia Resposta correta! +1 ponto.
+
+3) Qual comando em pyton e usado para exibir mensagens na tela?
+A) input()
+B) print()
+C)import()
+Sua resposta: b
+✔Acertou chefia Resposta correta! +1 ponto.
+
+4) O que é um algoritmo no contexto de lógica de programação e desenvolvimento de software?
+A) Um erro de código que faz o programa fechar sozinho inesperadamente()
+B) Uma sequência finita, ordenada e sem ambiguidades de instruções para resolver um problema()
+C)Uma linguagem de programação de alto nível usada apenas para criar páginas web()
+Sua resposta: b
+✔Acertou chefia Resposta correta! +1 ponto.
+
+5) Qual componente de hardware o SSD substitui em um computador para torná-lo mais rápido?
+A) Memória RAM()
+B) Processador (CPU)()
+C) Disco Rígido (HDD)()
+Sua resposta: c
+✔Acertou chefia Resposta correta! +1 ponto.
+
+==============================================
+Fim do Quiz,Samuel the chefo!
+ Sua puntuação final foi:5 de 5 pontos.
+ ⛩ Excelente! Você Acertou tudo!
